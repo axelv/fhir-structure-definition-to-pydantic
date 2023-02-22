@@ -1,0 +1,4 @@
+path,min,max,type
+unsignedInt.id,0,1,http://hl7.org/fhirpath/System.String
+unsignedInt.extension,0,*,Extension
+unsignedInt.value,0,1,http://hl7.org/fhirpath/System.String

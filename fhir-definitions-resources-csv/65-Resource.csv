@@ -1,0 +1,5 @@
+path,min,max,type
+Resource.id,0,1,http://hl7.org/fhirpath/System.String
+Resource.meta,0,1,Meta
+Resource.implicitRules,0,1,uri
+Resource.language,0,1,code

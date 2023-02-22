@@ -1,0 +1,7 @@
+path,min,max,type
+MonetaryComponent.id,0,1,http://hl7.org/fhirpath/System.String
+MonetaryComponent.extension,0,*,Extension
+MonetaryComponent.type,1,1,code
+MonetaryComponent.code,0,1,CodeableConcept
+MonetaryComponent.factor,0,1,decimal
+MonetaryComponent.amount,0,1,Money

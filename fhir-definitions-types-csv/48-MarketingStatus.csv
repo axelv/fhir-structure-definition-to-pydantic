@@ -1,0 +1,9 @@
+path,min,max,type
+MarketingStatus.id,0,1,http://hl7.org/fhirpath/System.String
+MarketingStatus.extension,0,*,Extension
+MarketingStatus.modifierExtension,0,*,Extension
+MarketingStatus.country,0,1,CodeableConcept
+MarketingStatus.jurisdiction,0,1,CodeableConcept
+MarketingStatus.status,1,1,CodeableConcept
+MarketingStatus.dateRange,0,1,Period
+MarketingStatus.restoreDate,0,1,dateTime

@@ -1,0 +1,9 @@
+path,min,max,type
+Identifier.id,0,1,http://hl7.org/fhirpath/System.String
+Identifier.extension,0,*,Extension
+Identifier.use,0,1,code
+Identifier.type,0,1,CodeableConcept
+Identifier.system,0,1,uri
+Identifier.value,0,1,string
+Identifier.period,0,1,Period
+Identifier.assigner,0,1,Reference

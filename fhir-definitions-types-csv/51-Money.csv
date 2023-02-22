@@ -1,0 +1,5 @@
+path,min,max,type
+Money.id,0,1,http://hl7.org/fhirpath/System.String
+Money.extension,0,*,Extension
+Money.value,0,1,decimal
+Money.currency,0,1,code

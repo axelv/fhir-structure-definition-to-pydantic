@@ -1,0 +1,5 @@
+path,min,max,type
+Range.id,0,1,http://hl7.org/fhirpath/System.String
+Range.extension,0,*,Extension
+Range.low,0,1,Quantity
+Range.high,0,1,Quantity

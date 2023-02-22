@@ -1,0 +1,14 @@
+path,min,max,type
+Basic.id,0,1,http://hl7.org/fhirpath/System.String
+Basic.meta,0,1,Meta
+Basic.implicitRules,0,1,uri
+Basic.language,0,1,code
+Basic.text,0,1,Narrative
+Basic.contained,0,*,Resource
+Basic.extension,0,*,Extension
+Basic.modifierExtension,0,*,Extension
+Basic.identifier,0,*,Identifier
+Basic.code,1,1,CodeableConcept
+Basic.subject,0,1,Reference
+Basic.created,0,1,dateTime
+Basic.author,0,1,Reference

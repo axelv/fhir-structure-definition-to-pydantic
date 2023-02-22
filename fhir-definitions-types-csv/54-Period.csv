@@ -1,0 +1,5 @@
+path,min,max,type
+Period.id,0,1,http://hl7.org/fhirpath/System.String
+Period.extension,0,*,Extension
+Period.start,0,1,dateTime
+Period.end,0,1,dateTime

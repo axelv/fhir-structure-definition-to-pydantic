@@ -1,0 +1,8 @@
+path,min,max,type
+ContactPoint.id,0,1,http://hl7.org/fhirpath/System.String
+ContactPoint.extension,0,*,Extension
+ContactPoint.system,0,1,code
+ContactPoint.value,0,1,string
+ContactPoint.use,0,1,code
+ContactPoint.rank,0,1,positiveInt
+ContactPoint.period,0,1,Period

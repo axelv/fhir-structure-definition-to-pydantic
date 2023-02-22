@@ -1,0 +1,4 @@
+path,min,max,type
+oid.id,0,1,http://hl7.org/fhirpath/System.String
+oid.extension,0,*,Extension
+oid.value,0,1,http://hl7.org/fhirpath/System.String

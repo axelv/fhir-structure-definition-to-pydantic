@@ -1,0 +1,4 @@
+path,min,max,type
+BackboneType.id,0,1,http://hl7.org/fhirpath/System.String
+BackboneType.extension,0,*,Extension
+BackboneType.modifierExtension,0,*,Extension

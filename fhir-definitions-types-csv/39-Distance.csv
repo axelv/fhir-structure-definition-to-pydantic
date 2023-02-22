@@ -1,0 +1,8 @@
+path,min,max,type
+Distance.id,0,1,http://hl7.org/fhirpath/System.String
+Distance.extension,0,*,Extension
+Distance.value,0,1,decimal
+Distance.comparator,0,1,code
+Distance.unit,0,1,string
+Distance.system,0,1,uri
+Distance.code,0,1,code

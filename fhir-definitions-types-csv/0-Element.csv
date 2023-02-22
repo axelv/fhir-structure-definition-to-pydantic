@@ -1,0 +1,3 @@
+path,min,max,type
+Element.id,0,1,http://hl7.org/fhirpath/System.String
+Element.extension,0,*,Extension

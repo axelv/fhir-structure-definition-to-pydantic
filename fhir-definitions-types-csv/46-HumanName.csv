@@ -1,0 +1,10 @@
+path,min,max,type
+HumanName.id,0,1,http://hl7.org/fhirpath/System.String
+HumanName.extension,0,*,Extension
+HumanName.use,0,1,code
+HumanName.text,0,1,string
+HumanName.family,0,1,string
+HumanName.given,0,*,string
+HumanName.prefix,0,*,string
+HumanName.suffix,0,*,string
+HumanName.period,0,1,Period

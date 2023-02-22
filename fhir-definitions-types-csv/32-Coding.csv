@@ -1,0 +1,8 @@
+path,min,max,type
+Coding.id,0,1,http://hl7.org/fhirpath/System.String
+Coding.extension,0,*,Extension
+Coding.system,0,1,uri
+Coding.version,0,1,string
+Coding.code,0,1,code
+Coding.display,0,1,string
+Coding.userSelected,0,1,boolean

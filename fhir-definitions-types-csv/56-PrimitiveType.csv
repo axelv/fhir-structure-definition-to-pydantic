@@ -1,0 +1,3 @@
+path,min,max,type
+PrimitiveType.id,0,1,http://hl7.org/fhirpath/System.String
+PrimitiveType.extension,0,*,Extension

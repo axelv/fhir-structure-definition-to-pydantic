@@ -1,0 +1,4 @@
+path,min,max,type
+boolean.id,0,1,http://hl7.org/fhirpath/System.String
+boolean.extension,0,*,Extension
+boolean.value,0,1,http://hl7.org/fhirpath/System.Boolean

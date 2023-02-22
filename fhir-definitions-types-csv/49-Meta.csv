@@ -1,0 +1,9 @@
+path,min,max,type
+Meta.id,0,1,http://hl7.org/fhirpath/System.String
+Meta.extension,0,*,Extension
+Meta.versionId,0,1,id
+Meta.lastUpdated,0,1,instant
+Meta.source,0,1,uri
+Meta.profile,0,*,canonical
+Meta.security,0,*,Coding
+Meta.tag,0,*,Coding

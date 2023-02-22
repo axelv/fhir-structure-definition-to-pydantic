@@ -1,0 +1,4 @@
+path,min,max,type
+positiveInt.id,0,1,http://hl7.org/fhirpath/System.String
+positiveInt.extension,0,*,Extension
+positiveInt.value,0,1,http://hl7.org/fhirpath/System.String

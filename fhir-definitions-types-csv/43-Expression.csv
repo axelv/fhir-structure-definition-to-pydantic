@@ -1,0 +1,8 @@
+path,min,max,type
+Expression.id,0,1,http://hl7.org/fhirpath/System.String
+Expression.extension,0,*,Extension
+Expression.description,0,1,string
+Expression.name,0,1,code
+Expression.language,0,1,code
+Expression.expression,0,1,string
+Expression.reference,0,1,uri

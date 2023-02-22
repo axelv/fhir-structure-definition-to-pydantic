@@ -1,0 +1,5 @@
+path,min,max,type
+ContactDetail.id,0,1,http://hl7.org/fhirpath/System.String
+ContactDetail.extension,0,*,Extension
+ContactDetail.name,0,1,string
+ContactDetail.telecom,0,*,ContactPoint

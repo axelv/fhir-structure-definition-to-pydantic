@@ -1,0 +1,4 @@
+path,min,max,type
+uuid.id,0,1,http://hl7.org/fhirpath/System.String
+uuid.extension,0,*,Extension
+uuid.value,0,1,http://hl7.org/fhirpath/System.String

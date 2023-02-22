@@ -1,0 +1,7 @@
+path,min,max,type
+Reference.id,0,1,http://hl7.org/fhirpath/System.String
+Reference.extension,0,*,Extension
+Reference.reference,0,1,string
+Reference.type,0,1,uri
+Reference.identifier,0,1,Identifier
+Reference.display,0,1,string

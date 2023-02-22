@@ -1,0 +1,4 @@
+path,min,max,type
+base64Binary.id,0,1,http://hl7.org/fhirpath/System.String
+base64Binary.extension,0,*,Extension
+base64Binary.value,0,1,http://hl7.org/fhirpath/System.String

@@ -1,0 +1,5 @@
+path,min,max,type
+CodeableReference.id,0,1,http://hl7.org/fhirpath/System.String
+CodeableReference.extension,0,*,Extension
+CodeableReference.concept,0,1,CodeableConcept
+CodeableReference.reference,0,1,Reference

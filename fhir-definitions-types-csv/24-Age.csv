@@ -1,0 +1,8 @@
+path,min,max,type
+Age.id,0,1,http://hl7.org/fhirpath/System.String
+Age.extension,0,*,Extension
+Age.value,0,1,decimal
+Age.comparator,0,1,code
+Age.unit,0,1,string
+Age.system,0,1,uri
+Age.code,0,1,code

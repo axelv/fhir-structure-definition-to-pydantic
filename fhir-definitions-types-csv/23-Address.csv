@@ -1,0 +1,13 @@
+path,min,max,type
+Address.id,0,1,http://hl7.org/fhirpath/System.String
+Address.extension,0,*,Extension
+Address.use,0,1,code
+Address.type,0,1,code
+Address.text,0,1,string
+Address.line,0,*,string
+Address.city,0,1,string
+Address.district,0,1,string
+Address.state,0,1,string
+Address.postalCode,0,1,string
+Address.country,0,1,string
+Address.period,0,1,Period

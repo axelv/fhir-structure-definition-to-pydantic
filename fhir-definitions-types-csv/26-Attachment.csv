@@ -1,0 +1,16 @@
+path,min,max,type
+Attachment.id,0,1,http://hl7.org/fhirpath/System.String
+Attachment.extension,0,*,Extension
+Attachment.contentType,0,1,code
+Attachment.language,0,1,code
+Attachment.data,0,1,base64Binary
+Attachment.url,0,1,url
+Attachment.size,0,1,integer64
+Attachment.hash,0,1,base64Binary
+Attachment.title,0,1,string
+Attachment.creation,0,1,dateTime
+Attachment.height,0,1,positiveInt
+Attachment.width,0,1,positiveInt
+Attachment.frames,0,1,positiveInt
+Attachment.duration,0,1,decimal
+Attachment.pages,0,1,positiveInt

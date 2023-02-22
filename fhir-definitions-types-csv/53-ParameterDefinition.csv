@@ -1,0 +1,10 @@
+path,min,max,type
+ParameterDefinition.id,0,1,http://hl7.org/fhirpath/System.String
+ParameterDefinition.extension,0,*,Extension
+ParameterDefinition.name,0,1,code
+ParameterDefinition.use,1,1,code
+ParameterDefinition.min,0,1,integer
+ParameterDefinition.max,0,1,string
+ParameterDefinition.documentation,0,1,string
+ParameterDefinition.type,1,1,code
+ParameterDefinition.profile,0,1,canonical

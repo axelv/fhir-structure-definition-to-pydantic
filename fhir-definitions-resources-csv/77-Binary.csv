@@ -1,0 +1,8 @@
+path,min,max,type
+Binary.id,0,1,http://hl7.org/fhirpath/System.String
+Binary.meta,0,1,Meta
+Binary.implicitRules,0,1,uri
+Binary.language,0,1,code
+Binary.contentType,1,1,code
+Binary.securityContext,0,1,Reference
+Binary.data,0,1,base64Binary

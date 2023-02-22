@@ -1,0 +1,4 @@
+path,min,max,type
+dateTime.id,0,1,http://hl7.org/fhirpath/System.String
+dateTime.extension,0,*,Extension
+dateTime.value,0,1,http://hl7.org/fhirpath/System.DateTime

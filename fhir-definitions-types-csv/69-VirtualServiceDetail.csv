@@ -1,0 +1,8 @@
+path,min,max,type
+VirtualServiceDetail.id,0,1,http://hl7.org/fhirpath/System.String
+VirtualServiceDetail.extension,0,*,Extension
+VirtualServiceDetail.channelType,0,1,Coding
+VirtualServiceDetail.address[x],0,1,url;string;ContactPoint;ExtendedContactDetail
+VirtualServiceDetail.additionalInfo,0,*,url
+VirtualServiceDetail.maxParticipants,0,1,positiveInt
+VirtualServiceDetail.sessionKey,0,1,string

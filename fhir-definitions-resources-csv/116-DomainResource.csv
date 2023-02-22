@@ -1,0 +1,9 @@
+path,min,max,type
+DomainResource.id,0,1,http://hl7.org/fhirpath/System.String
+DomainResource.meta,0,1,Meta
+DomainResource.implicitRules,0,1,uri
+DomainResource.language,0,1,code
+DomainResource.text,0,1,Narrative
+DomainResource.contained,0,*,Resource
+DomainResource.extension,0,*,Extension
+DomainResource.modifierExtension,0,*,Extension

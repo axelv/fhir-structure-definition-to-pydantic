@@ -1,0 +1,5 @@
+path,min,max,type
+Narrative.id,0,1,http://hl7.org/fhirpath/System.String
+Narrative.extension,0,*,Extension
+Narrative.status,1,1,code
+Narrative.div,1,1,xhtml

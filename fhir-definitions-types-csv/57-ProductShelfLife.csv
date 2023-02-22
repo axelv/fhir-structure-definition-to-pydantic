@@ -1,0 +1,7 @@
+path,min,max,type
+ProductShelfLife.id,0,1,http://hl7.org/fhirpath/System.String
+ProductShelfLife.extension,0,*,Extension
+ProductShelfLife.modifierExtension,0,*,Extension
+ProductShelfLife.type,0,1,CodeableConcept
+ProductShelfLife.period[x],0,1,Duration;string
+ProductShelfLife.specialPrecautionsForStorage,0,*,CodeableConcept

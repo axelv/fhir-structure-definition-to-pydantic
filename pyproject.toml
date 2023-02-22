@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "fhir-structure-definition-to-pydantic"
+version = "0.1.0"
+description = ""
+authors = ["Axel Vanraes <axel.vanraes@tiro.health>"]
+readme = "README.md"
+packages = [{include = "fhir_structure_definition_to_pydantic"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydantic = "^1.10.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

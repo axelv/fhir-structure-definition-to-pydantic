@@ -1,0 +1,13 @@
+path,min,max,type
+RelatedArtifact.id,0,1,http://hl7.org/fhirpath/System.String
+RelatedArtifact.extension,0,*,Extension
+RelatedArtifact.type,1,1,code
+RelatedArtifact.classifier,0,*,CodeableConcept
+RelatedArtifact.label,0,1,string
+RelatedArtifact.display,0,1,string
+RelatedArtifact.citation,0,1,markdown
+RelatedArtifact.document,0,1,Attachment
+RelatedArtifact.resource,0,1,canonical
+RelatedArtifact.resourceReference,0,1,Reference
+RelatedArtifact.publicationStatus,0,1,code
+RelatedArtifact.publicationDate,0,1,date

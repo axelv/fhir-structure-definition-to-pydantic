@@ -1,0 +1,4 @@
+path,min,max,type
+uri.id,0,1,http://hl7.org/fhirpath/System.String
+uri.extension,0,*,Extension
+uri.value,0,1,http://hl7.org/fhirpath/System.String

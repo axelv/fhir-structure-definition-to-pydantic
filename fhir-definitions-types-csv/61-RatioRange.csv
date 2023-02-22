@@ -1,0 +1,6 @@
+path,min,max,type
+RatioRange.id,0,1,http://hl7.org/fhirpath/System.String
+RatioRange.extension,0,*,Extension
+RatioRange.lowNumerator,0,1,Quantity
+RatioRange.highNumerator,0,1,Quantity
+RatioRange.denominator,0,1,Quantity

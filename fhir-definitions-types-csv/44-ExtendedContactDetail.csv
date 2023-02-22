@@ -1,0 +1,9 @@
+path,min,max,type
+ExtendedContactDetail.id,0,1,http://hl7.org/fhirpath/System.String
+ExtendedContactDetail.extension,0,*,Extension
+ExtendedContactDetail.purpose,0,1,CodeableConcept
+ExtendedContactDetail.name,0,*,HumanName
+ExtendedContactDetail.telecom,0,*,ContactPoint
+ExtendedContactDetail.address,0,1,Address
+ExtendedContactDetail.organization,0,1,Reference
+ExtendedContactDetail.period,0,1,Period

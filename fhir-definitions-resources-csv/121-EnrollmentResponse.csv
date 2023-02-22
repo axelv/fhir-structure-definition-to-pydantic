@@ -1,0 +1,17 @@
+path,min,max,type
+EnrollmentResponse.id,0,1,http://hl7.org/fhirpath/System.String
+EnrollmentResponse.meta,0,1,Meta
+EnrollmentResponse.implicitRules,0,1,uri
+EnrollmentResponse.language,0,1,code
+EnrollmentResponse.text,0,1,Narrative
+EnrollmentResponse.contained,0,*,Resource
+EnrollmentResponse.extension,0,*,Extension
+EnrollmentResponse.modifierExtension,0,*,Extension
+EnrollmentResponse.identifier,0,*,Identifier
+EnrollmentResponse.status,0,1,code
+EnrollmentResponse.request,0,1,Reference
+EnrollmentResponse.outcome,0,1,code
+EnrollmentResponse.disposition,0,1,string
+EnrollmentResponse.created,0,1,dateTime
+EnrollmentResponse.organization,0,1,Reference
+EnrollmentResponse.requestProvider,0,1,Reference

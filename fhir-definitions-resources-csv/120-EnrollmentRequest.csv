@@ -1,0 +1,16 @@
+path,min,max,type
+EnrollmentRequest.id,0,1,http://hl7.org/fhirpath/System.String
+EnrollmentRequest.meta,0,1,Meta
+EnrollmentRequest.implicitRules,0,1,uri
+EnrollmentRequest.language,0,1,code
+EnrollmentRequest.text,0,1,Narrative
+EnrollmentRequest.contained,0,*,Resource
+EnrollmentRequest.extension,0,*,Extension
+EnrollmentRequest.modifierExtension,0,*,Extension
+EnrollmentRequest.identifier,0,*,Identifier
+EnrollmentRequest.status,0,1,code
+EnrollmentRequest.created,0,1,dateTime
+EnrollmentRequest.insurer,0,1,Reference
+EnrollmentRequest.provider,0,1,Reference
+EnrollmentRequest.candidate,0,1,Reference
+EnrollmentRequest.coverage,0,1,Reference

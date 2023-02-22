@@ -1,0 +1,4 @@
+path,min,max,type
+instant.id,0,1,http://hl7.org/fhirpath/System.String
+instant.extension,0,*,Extension
+instant.value,0,1,http://hl7.org/fhirpath/System.DateTime

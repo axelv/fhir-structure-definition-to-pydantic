@@ -1,0 +1,5 @@
+path,min,max,type
+UsageContext.id,0,1,http://hl7.org/fhirpath/System.String
+UsageContext.extension,0,*,Extension
+UsageContext.code,1,1,Coding
+UsageContext.value[x],1,1,CodeableConcept;Quantity;Range;Reference

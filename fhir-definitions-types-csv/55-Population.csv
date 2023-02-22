@@ -1,0 +1,8 @@
+path,min,max,type
+Population.id,0,1,http://hl7.org/fhirpath/System.String
+Population.extension,0,*,Extension
+Population.modifierExtension,0,*,Extension
+Population.age[x],0,1,Range;CodeableConcept
+Population.gender,0,1,CodeableConcept
+Population.race,0,1,CodeableConcept
+Population.physiologicalCondition,0,1,CodeableConcept

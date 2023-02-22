@@ -1,0 +1,12 @@
+path,min,max,type
+FormularyItem.id,0,1,http://hl7.org/fhirpath/System.String
+FormularyItem.meta,0,1,Meta
+FormularyItem.implicitRules,0,1,uri
+FormularyItem.language,0,1,code
+FormularyItem.text,0,1,Narrative
+FormularyItem.contained,0,*,Resource
+FormularyItem.extension,0,*,Extension
+FormularyItem.modifierExtension,0,*,Extension
+FormularyItem.identifier,0,*,Identifier
+FormularyItem.code,0,1,CodeableConcept
+FormularyItem.status,0,1,code

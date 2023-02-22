@@ -1,0 +1,15 @@
+path,min,max,type
+Availability.id,0,1,http://hl7.org/fhirpath/System.String
+Availability.extension,0,*,Extension
+Availability.availableTime,0,*,Element
+Availability.availableTime.id,0,1,http://hl7.org/fhirpath/System.String
+Availability.availableTime.extension,0,*,Extension
+Availability.availableTime.daysOfWeek,0,*,code
+Availability.availableTime.allDay,0,1,boolean
+Availability.availableTime.availableStartTime,0,1,time
+Availability.availableTime.availableEndTime,0,1,time
+Availability.notAvailableTime,0,*,Element
+Availability.notAvailableTime.id,0,1,http://hl7.org/fhirpath/System.String
+Availability.notAvailableTime.extension,0,*,Extension
+Availability.notAvailableTime.description,0,1,string
+Availability.notAvailableTime.during,0,1,Period

@@ -1,0 +1,6 @@
+path,min,max,type
+Annotation.id,0,1,http://hl7.org/fhirpath/System.String
+Annotation.extension,0,*,Extension
+Annotation.author[x],0,1,Reference;string
+Annotation.time,0,1,dateTime
+Annotation.text,1,1,markdown

@@ -1,0 +1,17 @@
+path,min,max,type
+Linkage.id,0,1,http://hl7.org/fhirpath/System.String
+Linkage.meta,0,1,Meta
+Linkage.implicitRules,0,1,uri
+Linkage.language,0,1,code
+Linkage.text,0,1,Narrative
+Linkage.contained,0,*,Resource
+Linkage.extension,0,*,Extension
+Linkage.modifierExtension,0,*,Extension
+Linkage.active,0,1,boolean
+Linkage.author,0,1,Reference
+Linkage.item,1,*,BackboneElement
+Linkage.item.id,0,1,http://hl7.org/fhirpath/System.String
+Linkage.item.extension,0,*,Extension
+Linkage.item.modifierExtension,0,*,Extension
+Linkage.item.type,1,1,code
+Linkage.item.resource,1,1,Reference

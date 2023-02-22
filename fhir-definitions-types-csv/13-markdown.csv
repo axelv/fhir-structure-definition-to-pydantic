@@ -1,0 +1,4 @@
+path,min,max,type
+markdown.id,0,1,http://hl7.org/fhirpath/System.String
+markdown.extension,0,*,Extension
+markdown.value,0,1,http://hl7.org/fhirpath/System.String

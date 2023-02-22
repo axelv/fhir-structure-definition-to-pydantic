@@ -1,0 +1,13 @@
+path,min,max,type
+SampledData.id,0,1,http://hl7.org/fhirpath/System.String
+SampledData.extension,0,*,Extension
+SampledData.origin,1,1,Quantity
+SampledData.interval,0,1,decimal
+SampledData.intervalUnit,1,1,code
+SampledData.factor,0,1,decimal
+SampledData.lowerLimit,0,1,decimal
+SampledData.upperLimit,0,1,decimal
+SampledData.dimensions,1,1,positiveInt
+SampledData.codeMap,0,1,canonical
+SampledData.offsets,0,1,string
+SampledData.data,0,1,string

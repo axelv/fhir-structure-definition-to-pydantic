@@ -1,0 +1,10 @@
+path,min,max,type
+TriggerDefinition.id,0,1,http://hl7.org/fhirpath/System.String
+TriggerDefinition.extension,0,*,Extension
+TriggerDefinition.type,1,1,code
+TriggerDefinition.name,0,1,string
+TriggerDefinition.code,0,1,CodeableConcept
+TriggerDefinition.subscriptionTopic,0,1,canonical
+TriggerDefinition.timing[x],0,1,Timing;Reference;date;dateTime
+TriggerDefinition.data,0,*,DataRequirement
+TriggerDefinition.condition,0,1,Expression

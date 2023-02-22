@@ -1,0 +1,4 @@
+path,min,max,type
+canonical.id,0,1,http://hl7.org/fhirpath/System.String
+canonical.extension,0,*,Extension
+canonical.value,0,1,http://hl7.org/fhirpath/System.String

@@ -1,0 +1,10 @@
+path,min,max,type
+Signature.id,0,1,http://hl7.org/fhirpath/System.String
+Signature.extension,0,*,Extension
+Signature.type,0,*,Coding
+Signature.when,0,1,instant
+Signature.who,0,1,Reference
+Signature.onBehalfOf,0,1,Reference
+Signature.targetFormat,0,1,code
+Signature.sigFormat,0,1,code
+Signature.data,0,1,base64Binary

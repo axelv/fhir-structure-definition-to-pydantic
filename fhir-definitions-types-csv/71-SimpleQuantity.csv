@@ -1,0 +1,8 @@
+path,min,max,type
+Quantity.id,0,1,http://hl7.org/fhirpath/System.String
+Quantity.extension,0,*,Extension
+Quantity.value,0,1,decimal
+Quantity.comparator,0,0,code
+Quantity.unit,0,1,string
+Quantity.system,0,1,uri
+Quantity.code,0,1,code

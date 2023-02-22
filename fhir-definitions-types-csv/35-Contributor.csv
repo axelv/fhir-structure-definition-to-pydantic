@@ -1,0 +1,6 @@
+path,min,max,type
+Contributor.id,0,1,http://hl7.org/fhirpath/System.String
+Contributor.extension,0,*,Extension
+Contributor.type,1,1,code
+Contributor.name,1,1,string
+Contributor.contact,0,*,ContactDetail

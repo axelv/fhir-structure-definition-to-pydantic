@@ -1,0 +1,4 @@
+path,min,max,type
+decimal.id,0,1,http://hl7.org/fhirpath/System.String
+decimal.extension,0,*,Extension
+decimal.value,0,1,http://hl7.org/fhirpath/System.Decimal

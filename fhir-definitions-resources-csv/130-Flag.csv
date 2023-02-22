@@ -1,0 +1,17 @@
+path,min,max,type
+Flag.id,0,1,http://hl7.org/fhirpath/System.String
+Flag.meta,0,1,Meta
+Flag.implicitRules,0,1,uri
+Flag.language,0,1,code
+Flag.text,0,1,Narrative
+Flag.contained,0,*,Resource
+Flag.extension,0,*,Extension
+Flag.modifierExtension,0,*,Extension
+Flag.identifier,0,*,Identifier
+Flag.status,1,1,code
+Flag.category,0,*,CodeableConcept
+Flag.code,1,1,CodeableConcept
+Flag.subject,1,1,Reference
+Flag.period,0,1,Period
+Flag.encounter,0,1,Reference
+Flag.author,0,1,Reference
